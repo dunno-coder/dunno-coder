@@ -7,6 +7,15 @@ As a Data Analyst my passion is to translate data into valuable and comprehensib
 
 <br><br>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=algocompretto&layout=compact)
+<p align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api?username=algocompretto&show_icons=true&title_color=41b883&icon_color=41b883&text_color=273849&bg_color=fffefe"/>
+  </a>
+  </br>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=algocompretto&hide=HTML&langs_count=4" />
+  </a>
+</p>
 
 #
 ### Connect with me
